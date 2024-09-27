@@ -14,7 +14,7 @@ Los niveles están basados en plataformas con obstáculos que incluyen pendiente
 
 ### Personajes:
 - **Hello Kitty**: La protagonista. Puede moverse de izquierda a derecha, saltar y empujar objetos.
-- **Amigos secuestrados**: Keroppi, My Melody, Badtz-Maru, entre otros.
+- **Amigos secuestrados**: Daniel, Strawberry Shortcake, Twinky, Tom Lucitor.
 - **Villano principal**: Un enemigo temático (tal vez un gato oscuro o un personaje malvado como un oso de felpa) que ha secuestrado a los amigos.
 - **Enemigos**: Globos oscuros flotantes, juguetes malévolos, trampas y barriles.
 
@@ -37,22 +37,42 @@ El estilo visual será colorido y adorable, con tonos pastel y elementos relacio
 ### Nivel 1 (Campo de Flores):
 - **Objetivo**: El jugador debe aprender los controles básicos: moverse, saltar y aplastar enemigos.
 - **Obstáculos**: Rocas rodantes, troncos móviles y plataformas simples.
-- **Final del Nivel**: Rescatar a Keroppi atrapado en una jaula flotante.
+- **Final del Nivel**: Rescatar a **Daniel** atrapado en una jaula flotante.
 
 ### Nivel 2 (Parque de Diversiones):
 - **Objetivo**: Aquí el jugador enfrentará plataformas móviles y aprenderá a calcular saltos precisos.
 - **Obstáculos**: Montañas rusas móviles, globos que estallan y plataformas que desaparecen.
-- **Final del Nivel**: Rescatar a My Melody atrapada en una torre de globos.
+- **Final del Nivel**: Rescatar a **Strawberry Shortcake** atrapada en una torre de globos.
 
 ### Nivel 3 (Fábrica de Juguetes):
 - **Objetivo**: Introducir nuevos desafíos como cintas transportadoras y bloques que caen del techo.
 - **Obstáculos**: Robots de juguete enemigos y engranajes gigantes.
-- **Final del Nivel**: Rescatar a Badtz-Maru antes de que una máquina lo lleve al villano.
+- **Final del Nivel**: Rescatar a **Twinky** antes de que una máquina lo lleve al villano.
 
 ### Nivel 4 (Castillo Oscuro):
 - **Objetivo**: El jugador debe enfrentar al jefe final en un nivel lleno de trampas.
 - **Obstáculos**: Trampas de pinchos, caídas y el villano arrojando objetos desde las alturas.
 - **Final del Nivel**: Derrotar al villano y rescatar a todos los amigos de Hello Kitty.
+
+### Nivel 5 (Bosque de Frutas):
+- **Objetivo**: Ayudar a Hello Kitty a atravesar un bosque lleno de árboles frutales encantados.
+- **Obstáculos**: Frutas gigantes que caen de los árboles, plantas carnívoras que intentan atraparte.
+- **Final del Nivel**: Rescatar a **Strawberry Shortcake** atrapada en un pastel gigante.
+
+### Nivel 6 (Montaña Estrellada):
+- **Objetivo**: Escalar una montaña en la noche bajo un cielo estrellado mientras evitas enemigos celestiales.
+- **Obstáculos**: Estrellas que caen, plataformas que se desvanecen, vientos que empujan.
+- **Final del Nivel**: Salvar a **Twinky**, que está atrapado en una constelación mágica.
+
+### Nivel 7 (Castillo de los Sueños):
+- **Objetivo**: Navegar por el castillo mientras los sueños y las pesadillas se hacen realidad.
+- **Obstáculos**: Portales que te teletransportan, enemigos que cambian de forma.
+- **Final del Nivel**: Liberar a **Daniel**, que está atrapado en una pesadilla.
+
+### Nivel 8 (Reino Infernal):
+- **Objetivo**: Viajar por un reino oscuro y desafiante lleno de trampas infernales.
+- **Obstáculos**: Fuego, plataformas que caen, demonios voladores.
+- **Final del Nivel**: Enfrentar a **Tom Lucitor** como un mini-jefe antes de que se una a tu equipo.
 
 ## Controles:
 - **Flechas o teclas WASD** para moverse.
